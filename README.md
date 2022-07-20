@@ -1,1 +1,1 @@
-https://okito15.github.io/HTML_CSS_Okan-Seid
+https://okan-seid.github.io/HTML_CSS_Okan-Seid
